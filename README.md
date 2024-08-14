@@ -45,6 +45,10 @@ Ce portfolio présente mon travail en tant que développeur, y compris divers pr
 - SCSS
 - JavaScript
 - React
+- React Native
+- Expo
+- Supabase
+- Firebase
 - Redux
 - Tailwind CSS
 - Vite
