@@ -44,6 +44,7 @@ Ce portfolio présente mon travail en tant que développeur, y compris divers pr
 - HTML
 - SCSS
 - JavaScript
+- TypeScript
 - React
 - React Native
 - Expo
