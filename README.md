@@ -54,7 +54,7 @@ Ce portfolio présente mon travail en tant que développeur, y compris divers pr
 - Tailwind CSS
 - Vite
 - Node.js
-- Express
+- Express.js
 - Phaser 3
   
 ## 📞 Contact
