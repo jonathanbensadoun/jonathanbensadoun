@@ -56,6 +56,7 @@ Ce portfolio présente mon travail en tant que développeur, y compris divers pr
 - Node.js
 - Express.js
 - Phaser 3
+- next JS
   
 ## 📞 Contact
 Pour toute demande, veuillez me contacter à :
