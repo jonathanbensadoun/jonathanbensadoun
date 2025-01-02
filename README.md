@@ -1,8 +1,3 @@
-## Salut 👋
-
-
-# Jonathan Bensadoun
-
 Bienvenue sur mon profil GitHub ! Je suis un développeur passionné par le développement logiciel et les nouvelles technologies. Vous trouverez ici un aperçu de mes projets, compétences et expériences.
 
 ## 🌐 Portfolio
@@ -60,7 +55,7 @@ Découvrez mon portfolio personnel pour une présentation détaillée de mes pro
   
 ## 📞 Contact
 Pour toute demande, veuillez me contacter à :
-- **Formulaire contact **: [Contact](https://jonathan-bensadoun.netlify.app/)
+- **Formulaire contact**: [Contact](https://jonathan-bensadoun.netlify.app/)
 - **Email**: [jonathan.ben-sadoun@oclock.school](mailto:jonathan.ben-sadoun@oclock.school)
 - **LinkedIn**: [Jonathan Bensadoun](https://www.linkedin.com/in/jonathan-bensadoun/)
 
