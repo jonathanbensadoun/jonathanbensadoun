@@ -77,7 +77,7 @@ Pour toute demande, veuillez me contacter à :
 - **Créativité** : Photographie (portraits, paysages), Dessin, Peinture (aquarelle, acrylique).
 - **Manuel** : Bricolage, Menuiserie, Mécanique.
 - **Logique** : Jeux de stratégie (Magic: The Gathering).
-- Passionné par la lecture et l'apprentissage continu.
+- Passionné par l'apprentissage continu.
 
 Merci de visiter mon profil GitHub ! N'hésitez pas à me contacter pour discuter de projets, de collaborations ou simplement pour échanger sur les technologies.
 
